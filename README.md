@@ -16,3 +16,7 @@ This plugin just for fun.I don't release to chrome extension websotre.
 - Open webpage like the url as `music.douban.com/programme/*`
 
 - Just enjoy the music without ADs. :)
+
+#Todo
+
+Block all ads on the webpages, no just douban 
