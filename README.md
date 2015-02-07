@@ -26,6 +26,7 @@ I hope you take it more as a example that teach you how to write a chrome extens
 Add more features, such as 
 - Blacklist or whitelist.
 - Users can formulate their filter.
+
 #Final goal 
 
 Block all ads on the webpages, no just douban 
