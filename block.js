@@ -10,14 +10,12 @@ var divArray = [],//存在id属性的div标签数组
       divArray.push(allDiv[i].getAttribute("id"));
     };
   };
-  console.log(divArray);
 
   for (var i = divArray.length - 1; i >= 0; i--) {
     if (adRegex.test(divArray[i])) {
       adArray.push(divArray[i]);
     };
   };
-  console.log(adArray);
 
   for (var i = adArray.length - 1; i >= 0; i--) {
     document.getElementById(adArray[i]).style.display = 'none';
